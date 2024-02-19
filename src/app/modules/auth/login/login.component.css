@@ -1,0 +1,14 @@
+.customcontainer {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.customform {
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+}
